@@ -1,12 +1,12 @@
 ### Author Checklist
-Please complete these items on this checklist before requesting review.
+Please complete these items before requesting review.
 - [ ] Descriptive title, includes issue number
 - [ ] Description: overview of changes
 - [ ] Self-review
 - [ ] Readme/documentation updated
 
 ### Reviewer Checklist
-Please complete these items on this checklist before approving this PR.
+Please complete these items before approving this PR.
 - [ ] Quick check for correctness
 - [ ] Code changes follows best standards/practices
 - [ ] Relevant unit tests have been added/updated
