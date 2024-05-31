@@ -1,2 +1,3 @@
 # test-repo
-asdf
+test
+test
